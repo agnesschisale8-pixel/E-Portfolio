@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:\Users\achisale.stu\Documents\MGEM\FCOR 599 922\GITHUB\E-Portfolio
 
 website:
   title: "Your E-Portfolio"
@@ -14,10 +14,12 @@ website:
         text: Publications
       - href: content.qmd
         text: Content & Deliverables
+      
+    
 
 format:
   html:
-    theme: flatly
+    theme: journal
     css: styles.css
     toc: true
 

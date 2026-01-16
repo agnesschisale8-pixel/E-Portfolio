@@ -1,26 +1,21 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Agness Chisale"
+image: images/Aggie_.jpg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/agness-chisale-ab4199188/
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/agnesschisale8-pixel
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:achisale@student.ubc.ca
 ---
 
-Hey there people,
+Hey there everyone,
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
-
-Write something about myself, very exciting.
+My name is Agness Chisale and I am a master's student at UBC. I hold a Bachelor's Degree in Environmental Management from the University of Malawi , and  I am currently studying a Master of Geomatics for Environmental Management at UBC . My goal is to become a very experienced  GIS analyst. During my free time, i like to socialize with friends, paint and also hike.
